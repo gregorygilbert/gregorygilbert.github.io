@@ -18,11 +18,3 @@ a:active {color:#393939;}
 {
     font-family:"Verdana", sans-serif;
 }
-
-/* Option pour l'image de fond */
-.fond-image {
-    width: 100%;
-    height: auto;
-    position: absolute;
-     margin-top: 6em;
-}
